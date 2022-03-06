@@ -4,7 +4,7 @@ Ants and Bees Classification based on PyTorch
 
 Model trained on pretrained Inceptionv3, resnet50, squeezenet and shufflenet. 
 
-Pretrained models ensembled (3x Incept, 3xResnet) to check imporvement. 
+Ensembled Pretrained models (3x Incept, 3xResnet) to check improvement in metrics. 
 
 Ensembled weights give low accuracy, probably because of high accuracy and vanishing gradient problem.
 
