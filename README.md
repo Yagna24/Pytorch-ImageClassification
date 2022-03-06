@@ -1,2 +1,2 @@
 # Pytorch-ImageClassification
-Ants and Beef Classification based on PyTorch 
+Ants and Bees Classification based on PyTorch 
